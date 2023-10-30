@@ -33,20 +33,20 @@ let temperature:number = 33;
 console.log(`Is today's temperature 33? I predict false`)
 console.log(temperature == 43)
 
-let  ligtinmyhome:string='off';
+let  lightInMyHome:string='off';
 console.log(`Is the light in my home off? I predict false`)
-console.log(ligtinmyhome == 'on')
+console.log(lightInMyHome == 'on')
 
-let  todayweather:string= 'rainy'
+let  todayWeather:string= 'rainy'
 console.log(`Is today's weather rainy? I predict false`)
-console.log(todayweather == 'sunny')
+console.log(todayWeather == 'sunny')
 
 let completed45question:string = 'false';
 console.log(`Have I completed 45 exercises, NO I am currently on question 23? I predict false`)
 console.log(completed45question == 'true')
 
-let primenister:string = 'Imran Khan';
+let primeMinister:string = 'Imran Khan';
 console.log(`Is the current Prime Minister Imran Khan? I predict false`)
-console.log(primenister == 'sahbaz shrif')
+console.log(primeMinister == 'Imran Khan')
 
 
